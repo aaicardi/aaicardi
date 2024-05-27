@@ -14,3 +14,12 @@ I am a software engineer passionate about building new tools and creating techno
 ![Captura de pantalla 2024-05-27 110133](https://github.com/aaicardi/aaicardi/assets/4039351/5129e1fa-b02e-4fc9-9955-677c4e545c25)
 
 - 📫 How to reach me: **alexaycardi@gmail.com**
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aaicardi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaicardi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaicardi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
