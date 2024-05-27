@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello everyone! 👋 I'm Jhoel Aicardi 👋
 
-<!--
-**aaicardi/aaicardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer passionate about building new tools and creating technology to uplift people and build community. I enjoy working with a variety of technologies including:
 
-Here are some ideas to get you started:
+- 🔭 Angular: Framework for building scalable and dynamic web applications.
+- 🌱 TypeScript: High-level programming language that allows you to write more structured and scalable JavaScript code.
+- 👯 API (.NET Framework, .NET 5, 6, 7+): API development using the .NET Framework to create robust and scalable services.
+- 🤔 SQL Server: Relational database management to efficiently store and query data.
+- 💬 Azure: Microsoft's cloud platform that offers compute, storage, database services and more to help businesses grow and scale.
+- ⚡ Python: Versatile programming language used in a variety of fields, from web development to artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Captura de pantalla 2024-05-27 110133](https://github.com/aaicardi/aaicardi/assets/4039351/5129e1fa-b02e-4fc9-9955-677c4e545c25)
+
