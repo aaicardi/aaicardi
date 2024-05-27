@@ -13,3 +13,4 @@ I am a software engineer passionate about building new tools and creating techno
 
 ![Captura de pantalla 2024-05-27 110133](https://github.com/aaicardi/aaicardi/assets/4039351/5129e1fa-b02e-4fc9-9955-677c4e545c25)
 
+- 📫 How to reach me: **alexaycardi@gmail.com**
