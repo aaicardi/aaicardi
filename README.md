@@ -1,6 +1,4 @@
-## Hello everyone! 👋 I'm Jhoel Aicardi 👋
-
-# 👨‍💻 Alex Jhoel Aicardi Aicardi  
+# 👨‍💻 Jhoel Aicardi   
 **Systems Engineer | Universidad Nacional Abierta y a Distancia (UNAD)**  
 
 📍 Medellín, Colombia  
