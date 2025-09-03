@@ -4,7 +4,7 @@
 📍 Medellín, Colombia  
 📞 +57 3215023395  
 ✉️ [alexaycardi@gmail.com](mailto:alexaycardi@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/alex-jhoel-aicardi-avila)  
+🔗 [LinkedIn](https://www.linkedin.com/in/alex-jhoel-aicardi-avila-2b4069152)  
 👨‍💻 GitHub/Instagram: **@alex_aycardi**  
 
 ---
