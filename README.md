@@ -2,7 +2,6 @@
 **Systems Engineer | Universidad Nacional Abierta y a Distancia (UNAD)**  
 
 📍 Medellín, Colombia  
-📞 +57 3215023395  
 ✉️ [alexaycardi@gmail.com](mailto:alexaycardi@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/alex-jhoel-aicardi-avila-2b4069152)  
 👨‍💻 GitHub/Instagram: **@alex_aycardi**  
@@ -79,23 +78,6 @@ I am a **Systems Engineer** passionate about **technological innovation**, softw
 ⚽ Sports | 👨‍👩‍👧‍👦 Family | 🎶 Music | 🥾 Hiking | 📸 Photography | 🏙️ Urban Exploration  
 
 ---
-
-## 📞 References  
-
-**👪 Family**  
-- Jhoel Aicardi Hernández — 📱 +57 3216748697  
-- Lilian Avila Arias — 📱 +57 3116558495  
-
-**👤 Personal**  
-- Pablo Andrés Restrepo — 📱 +57 3163568373  
-- David Hernández Roca — 📱 +57 3006963481  
-
-**💼 Professional**  
-- Sandra Reyes — 📱 +57 3005730070  
-- Daniela Valencia — 📱 +57 3016754088  
-
-
-
 ![Captura de pantalla 2024-05-27 110133](https://github.com/aaicardi/aaicardi/assets/4039351/5129e1fa-b02e-4fc9-9955-677c4e545c25)
 
 - 📫 How to reach me: **alexaycardi@gmail.com**
